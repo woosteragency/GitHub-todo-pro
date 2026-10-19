@@ -1,6 +1,18 @@
 {
   "version": 1,
   "skills": {
+    "competitor-analysis": {
+      "source": "every-app/open-seo",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/competitor-analysis/SKILL.md",
+      "computedHash": "15190ab8b86e750d7d8a06176be2f67c56da25dc475db856f95a70333c9e9814"
+    },
+    "keyword-research": {
+      "source": "every-app/open-seo",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/keyword-research/SKILL.md",
+      "computedHash": "c98ea6cfd7419869daddec8d44285d2333992e066feff2308f38ee6fa451805c"
+    },
     "local-seo": {
       "source": "every-app/open-seo",
       "sourceType": "github",

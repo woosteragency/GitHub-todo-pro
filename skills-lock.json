@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "local-seo": {
+      "source": "every-app/open-seo",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/local-seo/SKILL.md",
+      "computedHash": "d3cee2743a657bc28f068728ce14a07e9af0478b98c8a1abedad8c7e265d63f6"
+    }
+  }
+}
